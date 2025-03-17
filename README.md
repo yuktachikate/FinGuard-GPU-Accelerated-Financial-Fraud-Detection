@@ -9,6 +9,7 @@ Credit card fraud causes billions in losses each year. FinGuard demonstrates how
 ### Data Acquisition & Exploration:
 Upload the Credit Card Fraud Detection dataset from Kaggle.
 Perform exploratory data analysis (EDA) to understand feature distributions and class imbalances.
+![WhatsApp Image 2025-03-17 at 16 09 21](https://github.com/user-attachments/assets/092ae1e6-92dc-4f7b-8a63-1c3c747ba972)
 
 ### Data Preprocessing:
 Standardize features and split the data into training and test sets using stratified sampling.
