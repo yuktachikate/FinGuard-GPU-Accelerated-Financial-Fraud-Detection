@@ -9,10 +9,15 @@ Credit card fraud causes billions in losses each year. FinGuard demonstrates how
 ### Data Acquisition & Exploration:
 Upload the Credit Card Fraud Detection dataset from Kaggle.
 Perform exploratory data analysis (EDA) to understand feature distributions and class imbalances.
+
 ![WhatsApp Image 2025-03-17 at 16 09 21](https://github.com/user-attachments/assets/092ae1e6-92dc-4f7b-8a63-1c3c747ba972)
+
 
 ### Data Preprocessing:
 Standardize features and split the data into training and test sets using stratified sampling.
+
+![WhatsApp Image 2025-03-17 at 16 14 14](https://github.com/user-attachments/assets/4ee83c54-7cd9-41a0-a602-4456553d556b)
+
 
 ### Model Building & Training:
 Develop a deep neural network using TensorFlow/Keras.
@@ -20,6 +25,8 @@ Train the model with early stopping to mitigate overfitting.
 
 ### Evaluation & Visualization:
 Assess model performance using accuracy, precision, recall, F1 score, confusion matrix, and ROC curves.
+
+![WhatsApp Image 2025-03-17 at 16 15 31](https://github.com/user-attachments/assets/ba1400dd-ad11-4d17-aac7-9795b3658db7)
 
 ### Explainable AI Integration:
 Utilize SHAP to generate force and summary plots that explain model predictions.
