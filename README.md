@@ -1,0 +1,2 @@
+# FinGuard-GPU-Accelerated-Financial-Fraud-Detection
+This project adapts NVIDIA’s innovative AI strategies, originally used in telecom, to address a real-world finance challenge: credit card fraud detection. Leveraging GPU-accelerated deep learning in Google Colab, it builds a neural network on the public Credit Card Fraud dataset, delivering swift and accurate fraud identification. Fast fraud alert.
